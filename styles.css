@@ -1,0 +1,31 @@
+ <style>
+            body {background-image: https://news4cars.files.wordpress.com/2013/03/nissan_skyline-c10_gt-r.jpg}
+            h1 {color:blue}
+            img {width: 400px}
+            classId {
+                width: 500px;
+                margin-left: auto;
+                margin-right: auto;
+                }
+            thirdDiv {
+                height:600px;
+                width: 500px;
+            }
+            thirdDiv {background: black}
+            spanId {font-size:18px}
+            spanId {margin:50px}
+            thirdDiv {padding: 50px}
+            thirdId {border: 2px dotted white}
+            divClass = "flex-container" {
+                            display: flex;
+                            flex-direction: row;
+                            justify-content: center;                            
+                            }
+            thirdDiv = "flex-container" {
+                            display: flex;
+                            flex-direction: row;
+                            justify-content: center;                            
+                            }
+                    
+        
+</style>
