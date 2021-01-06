@@ -10,8 +10,8 @@
     #fotoPerfil {
         display: flexbox; 
         align-items: space-around;
-        right: 500px;
-        margin-right: 5px;
+        justify-content: flex-end;
+        margin-right: 10px;
         height:240px;
         width: 150px;
     }
