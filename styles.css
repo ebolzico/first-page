@@ -6,7 +6,7 @@
     #encabezado {
         text-align: center;
         font-size: 20px;
-        font-style: overline;
+        font-style: italic;
     }
     #fotoPerfil {
         display: flexbox; 
