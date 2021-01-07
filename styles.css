@@ -2,7 +2,7 @@
     body {
         display: grid;
         grid-template-columns: 10% 30% 10% 50%;
-        grid-template-rows: 50px 50px 50px 50px 50px 50px;
+        grid-template-rows: 100px 100px 100px 100px 100px 100px;
         background-image: url(https://www.aalto.fi/sites/g/files/flghsv161/files/styles/2_3_1380w_600h_n/public/2019-04/aalto_university_azerty_new_keyboard_22-3-2019_photo_mikko_raskinen_001_original.jpg?h=2992ba0a&itok=tKAzgTwK);
         background-size: cover;
         background-attachment: fixed;
