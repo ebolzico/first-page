@@ -9,6 +9,7 @@
     } 
     #titulo {
         grid-column: 2/3;
+        grid-row: 1/2;
     }
     #encabezado {
         font-size: 20px;
@@ -25,18 +26,23 @@
     }
     #educacion {
         grid-column: 4/5;
+        grid-row: 2/3;
     }
     #experienciasLaborales {
         grid-column: 4/5;
+        grid-row: 3/4;
     }
     #skills {
         grid-column: 4/5;
+        grid-row: 4/5;
     }
     #descripcionPersonal {
         grid-column: 4/5;
+        grid-row: 5/6;
     }
     #carrera {
         grid-column: 4/5;
+        grid-row: 6/7;
     }
     #title1 {
         color: whitesmoke;
