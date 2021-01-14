@@ -7,10 +7,9 @@
         background-attachment: fixed;
     } 
     #titulo {
-        grid-area: 1 / 2 / 3 / 3;    
+        grid-area: 1 / 2 / 3 / 3;  /* Titulo y foto de perfil en la parte superior izquierda */  
     }
-    #encabezado {
-        
+    #encabezado { 
         font-size: 20px;
         font-family: Stencil Std, fantasy;
         color: black;
@@ -20,7 +19,7 @@
         height: 400px;
         width: 250px;
     }
-    #educacion {
+    #educacion { /* De aca en adelante, todos estan en la misma columna (anteultima), pero varian las filas */
         grid-area: 1 / 4 / 2 / 5;        
     }
     #experienciasLaborales {
@@ -35,6 +34,9 @@
     #carrera {
         grid-area: 5 / 4 / 6 / 5;
     }
+
+    /* Aca solo es estilos de texto, muy basico al 14/01/2021 */
+
     #title1 {
         color: whitesmoke;
         font-family: Stencil Std, fantasy;
