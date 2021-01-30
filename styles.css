@@ -21,7 +21,8 @@
     }
     #educacion { /* De aca en adelante, todos estan en la misma columna (anteultima), pero varian las filas */
         grid-area: 1 / 4 / 2 / 5;  
-        background-color: blue;      
+        background-color: blue; 
+        padding: 5px;     
     }
     #experienciasLaborales {
         grid-area: 2 / 4 / 3 / 5;        
